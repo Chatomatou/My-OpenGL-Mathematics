@@ -12,7 +12,7 @@ Bibliothèque mathématiques, utilisable pour tout type de projet 2D 3D sous Ope
 | glColor or glm::Color | Use additve color for representing a color. |
 | glVector2f or glm::Vector2f | Dot Product, Magnitude, Angle, and others... |
 | glVector3f or glm::Vector3f | Inheritence **Vector2f** add Cross Product.  |
-| Matrix | Multiplication with a **Vector3f** or **Matrix** |
+| glMatrix or glm::Matrix | Multiplication with a **Vector3f** or **Matrix** |
 | Cartesian Coordinate 2D | Coordinate frame (x ,y), others... |
 | Polar Coordinate 2D  | Coordinate frame (r, θ), others... |
 
