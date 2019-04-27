@@ -20,3 +20,7 @@ Bibliothèque mathématiques, utilisable pour tout type de projet 2D 3D sous Ope
 | ------ | ------ |
 | Cartesian Coordinate 3D |  |
 | Polar Coordinate 3D  |   |
+
+```sh
+for use gl<Object> you need to #define OPENGL_USAGE
+```
